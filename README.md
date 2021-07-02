@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romualdas Bartkus
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on beginner level projects
 - 📫 romualdasbartkus@gmail.com
 
